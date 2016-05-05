@@ -1,5 +1,7 @@
 # REST API For ZigBee Dimmable Lights
 
+For a quick evaluation, go to https://kappa.io/quickstart
+
 ##Native Compile
 *** In progress ***
 
@@ -20,3 +22,6 @@ cd  kappaIO-toolchain-crosscompile-armhf/package/kappaio-ha-dimmable/build
 ```
 Substitute the IP with your Pi's LAN IP
 
+For questions: dev@kapparock.com
+
+Project page: https://kappa.io
